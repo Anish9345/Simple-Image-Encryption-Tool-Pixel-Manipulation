@@ -51,8 +51,8 @@ Image-Encryption-Tool/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Anish9345/Simple-Image-Encryption-Tool-Pixel-Manipulation-.git
-cd Simple-Image-Encryption-Tool-(Pixel-Manipulation)
+git clone https://github.com/Anish9345/Simple-Image-Encryption-Tool-Pixel-Manipulation.git
+cd Simple-Image-Encryption-Tool-Pixel-Manipulation
 ```
 
 ### 2️⃣ Install Required Library
