@@ -52,7 +52,7 @@ Image-Encryption-Tool/
 
 ```bash
 git clone https://github.com/your-username/image-encryption-tool.git
-cd image-encryption-tool
+cd Simple-Image-Encryption-Tool-(Pixel-Manipulation)
 ```
 
 ### 2️⃣ Install Required Library
@@ -82,7 +82,7 @@ Rename image to → encrypted.png
 ### Step 2: Run the Program
 
 ```bash
-python main.py
+python Simple-Image-Encryption-Tool-(Pixel-Manipulation).py
 ```
 
 ---
